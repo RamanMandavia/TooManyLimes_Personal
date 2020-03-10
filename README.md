@@ -1,13 +1,12 @@
 # Too Many Limes
+This repository contains the entire Unity project within the Project folder, and a playable build within the Build folder.
 
 ### Team Hell Yeah
-
-| Version Control Master | Scrum Master    |
-| ---------------------- | --------------- |
-| Jae Pagulayan          | Cole Boggan     |
-| jup6039                | cxb6159         |
-| SFGxGamer              | Coletrain9903   |
-| jup6039                | coletrain9903   |
+- Jae Pagulayan
+- Cole Boggan
+- Raman Mandavia
+- Grayson Crosby
+- Niko Procopi
 
 #### Keywords
 
@@ -44,10 +43,6 @@ Too Many Limes is a platforming puzzle-cooking game. Throughout the game, player
 4.  Narrative
 
     -   You are a chef working at a somewhat popular restaurant. However, there was an error in your latest shipment of cooking supplies: all of the ingredients were turned into limes! Now you have to deal with the many limes trying to interfere with your work.
-
-#### Minimal Viable Interaction
-
-For the MVI, we will be creating the first level or two of the game. This will allow us to create the base mechanics required for this game, such as picking up objects, spawning the correct ingredients, and determining whether you are adding the correct ingredients or not.
 
 #### References
 
